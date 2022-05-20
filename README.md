@@ -1,5 +1,5 @@
 # Blue-BackEnd-C012-Modulo04-Projeto
-Repositório de projetos BackEnd desenvolvidos durante realização do Módulo 04 - BlueEdtech.
+Repositório de projeto BackEnd desenvolvido durante realização do Módulo 04 - BlueEdtech.
 
 Validação de dados em todos os endpoints com class-validator;
 Status Code corretos em todos os endpoints: 200, 201, 400, 404, etc;
