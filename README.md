@@ -16,7 +16,7 @@ Deploy do banco de dados.
 Para clonar este repositório, basta copiar o comando a baixo sem o <b>'$'</b>, ir até o terminal em seu computador, na pasta que deseja que o repositório seja clonado, colar o comando e apertar a tecla <b>Enter</b>.
 
 ```bash
-$ git clone https://github.com/mlucasdev/platform-gaming-server.git
+$ git clone https://github.com/AlexandreSilvestre21/Blue-BackEnd-C012-Modulo04-Projeto
 ```
 
 ## Como Instalar
