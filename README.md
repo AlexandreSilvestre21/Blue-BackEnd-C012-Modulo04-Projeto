@@ -13,21 +13,21 @@ Deploy do banco de dados.
 
 ## Como Clonar o Repositório
 
-Para clonar este repositório, basta copiar o comando a baixo sem o <b>'$'</b>, ir até o terminal em seu computador, na pasta que deseja que o repositório seja clonado, colar o comando e apertar a tecla <b>Enter</b>.
+Para clonar este repositório, basta copiar o comando a baixo sem o <b>'$'</b>.
 
 ```bash
-$ git clone https://github.com/AlexandreSilvestre21/Blue-BackEnd-C012-Modulo04-Projeto
+$ git clone hhttps://github.com/AlexandreSilvestre21/Blue-BackEnd-C012-Modulo04-Projeto.git
 ```
 
 ## Como Instalar
 
-bash
+```bash
 $ npm install
-
+```
 
 ## Como Rodar a Aplicação
 
-bash
+```bash
 # development
 $ npm run start
 
@@ -36,3 +36,4 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+```
